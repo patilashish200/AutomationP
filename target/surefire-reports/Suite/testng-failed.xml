@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browserName" value="Chrome"/>
+  <listeners>
+    <listener class-name="com.ext.utility.Listener"/>
+  </listeners>
+  <test name="Test- Chrome">
+    <classes>
+      <class name="com.ext.testCases.BaseTestCase"/>
+      <class name="com.ext.testCases.TC_Login"/>
+      <class name="com.ext.testCases.TC_Register"/>
+    </classes>
+  </test> <!-- Test- Chrome -->
+  <test name="Test- Chrome(failed)" parallel="tests">
+    <classes>
+      <class name="com.ext.testCases.TC_Login">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ext.testCases.TC_Login -->
+      <class name="com.ext.testCases.BaseTestCase">
+        <methods>
+          <include name="prerequite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ext.testCases.BaseTestCase -->
+      <class name="com.ext.testCases.TC_Register">
+        <methods>
+          <include name="TC1_Register"/>
+          <include name="startTestCase"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ext.testCases.TC_Register -->
+    </classes>
+  </test> <!-- Test- Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

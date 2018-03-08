@@ -1,0 +1,159 @@
+2017-05-06 22:33:41,882 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:33:41,882 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:33:41,882 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-06 22:33:41,882 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:33:41,882 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:33:42,545 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-06 22:33:42,661 INFO  [Log] Username from TestData is test@test.com 
+2017-05-06 22:33:42,691 INFO  [Log] Username text box is found on Login page 
+2017-05-06 22:33:42,811 INFO  [Log] Entering username into Username text box  
+2017-05-06 22:33:42,837 INFO  [Log] Sign In button is found on Login page 
+2017-05-06 22:33:53,210 INFO  [Log] Clicked on Sign In button 
+2017-05-06 22:33:53,210 INFO  [Log] Succesfully logged into system 
+2017-05-06 22:33:57,384 INFO  [Log] Found Switch To Menu 
+2017-05-06 22:33:59,524 INFO  [Log] Found Alerts submenu 
+2017-05-06 22:34:07,429 INFO  [Log] Found button 
+2017-05-06 22:34:07,608 INFO  [Log] Calling Wdgets method 
+2017-05-06 22:36:09,554 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:36:09,554 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:36:09,554 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-06 22:36:09,554 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:36:09,554 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:36:10,196 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-06 22:36:10,304 INFO  [Log] Username from TestData is test@test.com 
+2017-05-06 22:36:10,341 INFO  [Log] Username text box is found on Login page 
+2017-05-06 22:36:10,489 INFO  [Log] Entering username into Username text box  
+2017-05-06 22:36:10,515 INFO  [Log] Sign In button is found on Login page 
+2017-05-06 22:36:25,716 INFO  [Log] Clicked on Sign In button 
+2017-05-06 22:36:25,716 INFO  [Log] Succesfully logged into system 
+2017-05-06 22:36:29,895 INFO  [Log] Found Switch To Menu 
+2017-05-06 22:36:32,047 INFO  [Log] Found Alerts submenu 
+2017-05-06 22:36:44,043 INFO  [Log] Found button 
+2017-05-06 22:36:44,211 INFO  [Log] Calling Wdgets method 
+2017-05-06 22:40:06,378 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:40:06,378 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:40:06,379 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-06 22:40:06,379 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:40:06,379 INFO  [Log] **************************************************************************************** 
+2017-05-06 22:40:07,068 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-06 22:40:07,169 INFO  [Log] Username from TestData is test@test.com 
+2017-05-06 22:40:07,204 INFO  [Log] Username text box is found on Login page 
+2017-05-06 22:40:07,321 INFO  [Log] Entering username into Username text box  
+2017-05-06 22:40:07,346 INFO  [Log] Sign In button is found on Login page 
+2017-05-06 22:40:18,763 INFO  [Log] Clicked on Sign In button 
+2017-05-06 22:40:18,764 INFO  [Log] Succesfully logged into system 
+2017-05-06 22:40:22,936 INFO  [Log] Found Switch To Menu 
+2017-05-06 22:40:25,077 INFO  [Log] Found Alerts submenu 
+2017-05-06 22:40:41,487 INFO  [Log] Found button 
+2017-05-06 22:40:41,673 INFO  [Log] Calling Wdgets method 
+2017-05-07 10:52:22,658 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:52:22,736 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:52:22,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 10:52:22,736 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:52:22,736 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:52:25,430 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-07 10:52:25,547 INFO  [Log] Username from TestData is test@test.com 
+2017-05-07 10:52:26,032 INFO  [Log] Username text box is found on Login page 
+2017-05-07 10:52:27,547 INFO  [Log] Entering username into Username text box  
+2017-05-07 10:52:27,606 INFO  [Log] Sign In button is found on Login page 
+2017-05-07 10:52:37,588 INFO  [Log] Clicked on Sign In button 
+2017-05-07 10:52:37,588 INFO  [Log] Succesfully logged into system 
+2017-05-07 10:52:41,765 INFO  [Log] Found Switch To Menu 
+2017-05-07 10:52:44,027 INFO  [Log] Found Alerts submenu 
+2017-05-07 10:52:53,740 INFO  [Log] Found button 
+2017-05-07 10:53:06,523 INFO  [Log] Calling Wdgets method 
+2017-05-07 10:54:34,637 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:54:34,637 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:54:34,637 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 10:54:34,637 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:54:34,637 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:54:35,209 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-07 10:54:35,312 INFO  [Log] Username from TestData is test@test.com 
+2017-05-07 10:54:35,343 INFO  [Log] Username text box is found on Login page 
+2017-05-07 10:54:35,484 INFO  [Log] Entering username into Username text box  
+2017-05-07 10:54:35,508 INFO  [Log] Sign In button is found on Login page 
+2017-05-07 10:54:42,309 INFO  [Log] Clicked on Sign In button 
+2017-05-07 10:54:42,309 INFO  [Log] Succesfully logged into system 
+2017-05-07 10:54:46,434 INFO  [Log] Found Switch To Menu 
+2017-05-07 10:54:48,541 INFO  [Log] Found Alerts submenu 
+2017-05-07 10:55:01,062 INFO  [Log] Found button 
+2017-05-07 10:55:42,760 INFO  [Log] Calling Wdgets method 
+2017-05-07 10:58:04,332 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:58:04,332 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:58:04,332 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 10:58:04,332 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:58:04,332 INFO  [Log] **************************************************************************************** 
+2017-05-07 10:58:04,892 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-07 10:58:05,001 INFO  [Log] Username from TestData is test@test.com 
+2017-05-07 10:58:05,033 INFO  [Log] Username text box is found on Login page 
+2017-05-07 10:58:05,161 INFO  [Log] Entering username into Username text box  
+2017-05-07 10:58:05,189 INFO  [Log] Sign In button is found on Login page 
+2017-05-07 10:58:11,474 INFO  [Log] Clicked on Sign In button 
+2017-05-07 10:58:11,474 INFO  [Log] Succesfully logged into system 
+2017-05-07 10:58:15,627 INFO  [Log] Found Switch To Menu 
+2017-05-07 10:58:17,805 INFO  [Log] Found Alerts submenu 
+2017-05-07 10:58:27,072 INFO  [Log] Found button 
+2017-05-07 11:01:49,580 INFO  [Log] Calling Wdgets method 
+2017-05-08 08:38:02,484 INFO  [Log] **************************************************************************************** 
+2017-05-08 08:38:02,508 INFO  [Log] **************************************************************************************** 
+2017-05-08 08:38:02,508 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-08 08:38:02,508 INFO  [Log] **************************************************************************************** 
+2017-05-08 08:38:02,508 INFO  [Log] **************************************************************************************** 
+2017-05-08 08:38:07,627 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-08 08:38:07,923 INFO  [Log] Username from TestData is test@test.com 
+2017-05-08 08:38:08,092 INFO  [Log] Username text box is found on Login page 
+2017-05-08 08:38:08,264 INFO  [Log] Entering username into Username text box  
+2017-05-08 08:38:08,308 INFO  [Log] Sign In button is found on Login page 
+2017-05-08 08:38:17,881 INFO  [Log] Clicked on Sign In button 
+2017-05-08 08:38:17,881 INFO  [Log] Succesfully logged into system 
+2017-05-08 08:38:22,184 INFO  [Log] Found Switch To Menu 
+2017-05-08 08:38:24,337 INFO  [Log] Found File Upload submenu 
+2017-05-08 08:38:32,153 INFO  [Log] Found Browse button 
+2017-05-14 11:24:13,883 INFO  [Log] **************************************************************************************** 
+2017-05-14 11:24:13,930 INFO  [Log] **************************************************************************************** 
+2017-05-14 11:24:13,930 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-14 11:24:13,930 INFO  [Log] **************************************************************************************** 
+2017-05-14 11:24:13,930 INFO  [Log] **************************************************************************************** 
+2017-05-14 11:24:16,268 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-14 11:24:16,633 INFO  [Log] Username from TestData is Kavya 
+2017-05-14 11:24:17,054 INFO  [Log] Username text box is found on Login page 
+2017-05-14 11:24:18,230 INFO  [Log] Entering username into Username text box  
+2017-05-14 11:24:18,274 INFO  [Log] Sign In button is found on Login page 
+2017-05-14 11:24:41,007 INFO  [Log] Clicked on Sign In button 
+2017-05-14 11:24:41,007 INFO  [Log] Succesfully logged into system 
+2017-05-25 08:44:15,252 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:44:15,252 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:44:15,252 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-25 08:44:15,252 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:44:15,252 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:44:16,568 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-25 08:44:16,851 INFO  [Log] Username from TestData is Kavya 
+2017-05-25 08:44:16,961 INFO  [Log] Username text box is found on Login page 
+2017-05-25 08:44:17,152 INFO  [Log] Entering username into Username text box  
+2017-05-25 08:44:17,196 INFO  [Log] Sign In button is found on Login page 
+2017-05-25 08:44:27,440 INFO  [Log] Clicked on Sign In button 
+2017-05-25 08:44:27,444 INFO  [Log] Succesfully logged into system 
+2017-05-25 08:47:40,199 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:47:40,199 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:47:40,199 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-25 08:47:40,199 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:47:40,199 INFO  [Log] **************************************************************************************** 
+2017-05-25 08:47:40,777 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-25 08:47:41,021 INFO  [Log] Username from TestData is Kavya 
+2017-05-25 08:47:41,068 INFO  [Log] Username text box is found on Login page 
+2017-05-25 08:47:41,143 INFO  [Log] Entering username into Username text box  
+2017-05-25 08:47:41,175 INFO  [Log] Sign In button is found on Login page 
+2017-05-25 08:47:50,127 INFO  [Log] Clicked on Sign In button 
+2017-05-25 08:47:50,127 INFO  [Log] Succesfully logged into system 
+2017-05-31 20:45:22,979 INFO  [Log] **************************************************************************************** 
+2017-05-31 20:45:22,995 INFO  [Log] **************************************************************************************** 
+2017-05-31 20:45:22,995 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_Login       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-31 20:45:22,995 INFO  [Log] **************************************************************************************** 
+2017-05-31 20:45:22,995 INFO  [Log] **************************************************************************************** 
+2017-05-31 20:45:24,706 INFO  [Log] Set Excel Path, Name and Sheet E:\WS_PracticeSelenium\AutomationP\src\test\java\com\ext\testDataTestData-AutomationP.xlsxLogin 
+2017-05-31 20:45:25,068 INFO  [Log] Username from TestData is Kavya 
+2017-05-31 20:45:25,287 INFO  [Log] Username text box is found on Login page 
+2017-05-31 20:45:25,433 INFO  [Log] Entering username into Username text box  
+2017-05-31 20:45:25,473 INFO  [Log] Sign In button is found on Login page 
+2017-05-31 20:45:41,782 INFO  [Log] Clicked on Sign In button 
+2017-05-31 20:45:41,782 INFO  [Log] Succesfully logged into system 

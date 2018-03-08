@@ -1,0 +1,5 @@
+com\ext\testCases\TC_Register.class
+com\ext\testCases\TC_Login.class
+com\ext\testCases\TC_Practice.class
+com\ext\testCases\VerifyTitle.class
+com\ext\testCases\BaseTestCase.class
